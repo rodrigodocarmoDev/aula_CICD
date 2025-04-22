@@ -3,7 +3,7 @@
 
 void testar() {
   // Função de teste simples 
-  assert(1 === 1); // Verifica se 1 é igual a 1 
+  assert(1 == 1); // Verifica se 1 é igual a 1 
   printf("Teste passou!\n");
 }  
 
